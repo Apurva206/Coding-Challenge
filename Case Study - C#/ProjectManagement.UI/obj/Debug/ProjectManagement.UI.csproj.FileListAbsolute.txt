@@ -1,0 +1,15 @@
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.UI.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\obj\Debug\ProjectManagement.UI.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\obj\Debug\ProjectManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\obj\Debug\ProjectManagement.UI.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.Util.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.Util.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\obj\Debug\ProjectM.BBA5C045.Up2Date
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\bin\Debug\ProjectManagement.UI.exe
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.UI\obj\Debug\ProjectManagement.UI.exe
