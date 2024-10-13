@@ -1,0 +1,26 @@
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.Util.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.Util.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Util\obj\Debug\ProjectM.999FB6C8.Up2Date
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.Util.dll
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.Util.pdb
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\obj\Debug\ProjectM.999FB6C8.Up2Date
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.dll
+C:\Users\Apurva Singhal\source\repos\Case Study - C#\ProjectManagement.Util\obj\Debug\ProjectManagement.Util.pdb
