@@ -1,0 +1,9 @@
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\obj\Debug\ProjectManagement.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\obj\Debug\ProjectManagement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\obj\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\obj\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.BusinessLayer\obj\Debug\ProjectM.F88BC4C0.Up2Date
