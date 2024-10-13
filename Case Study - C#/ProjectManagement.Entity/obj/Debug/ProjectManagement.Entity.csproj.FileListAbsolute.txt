@@ -1,6 +1,0 @@
-C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.dll
-C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.pdb
-C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.AssemblyReference.cache
-C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.CoreCompileInputs.cache
-C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.dll
-C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.pdb
