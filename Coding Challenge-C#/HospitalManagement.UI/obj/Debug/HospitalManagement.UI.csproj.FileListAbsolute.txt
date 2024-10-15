@@ -1,0 +1,15 @@
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.UI.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.UI.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\bin\Debug\HospitalManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\obj\Debug\HospitalManagement.UI.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\obj\Debug\HospitalManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\obj\Debug\Hospital.28E45C00.Up2Date
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\obj\Debug\HospitalManagement.UI.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.UI\obj\Debug\HospitalManagement.UI.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.UI\obj\Debug\HospitalManagement.UI.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.UI\obj\Debug\HospitalManagement.UI.csproj.CoreCompileInputs.cache
