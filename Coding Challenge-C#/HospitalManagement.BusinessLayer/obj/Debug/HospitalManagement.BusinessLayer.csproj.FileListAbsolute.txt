@@ -1,0 +1,11 @@
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\obj\Debug\HospitalManagement.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\obj\Debug\HospitalManagement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\bin\Debug\HospitalManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\bin\Debug\HospitalManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\bin\Debug\HospitalManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\bin\Debug\HospitalManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\obj\Debug\Hospital.CCD2FB95.Up2Date
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\obj\Debug\HospitalManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.BusinessLayer\obj\Debug\HospitalManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.BusinessLayer\obj\Debug\HospitalManagement.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.BusinessLayer\obj\Debug\HospitalManagement.BusinessLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Exception\bin\Debug\HospitalManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Exception\bin\Debug\HospitalManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\bin\Debug\HospitalManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\bin\Debug\HospitalManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\bin\Debug\HospitalManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\bin\Debug\HospitalManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\obj\Debug\Hospital.D73686D6.Up2Date
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Exception\obj\Debug\HospitalManagement.Exception.pdb

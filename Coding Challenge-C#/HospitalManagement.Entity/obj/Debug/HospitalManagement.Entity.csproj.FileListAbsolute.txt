@@ -1,0 +1,14 @@
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Entity\bin\Debug\HospitalManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Entity\bin\Debug\HospitalManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\bin\Debug\App.config
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\bin\Debug\HospitalManagement.Entity.dll.config
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\bin\Debug\HospitalManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\bin\Debug\HospitalManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\Coding Challenge\HospitalManagement.Entity\obj\Debug\HospitalManagement.Entity.pdb
