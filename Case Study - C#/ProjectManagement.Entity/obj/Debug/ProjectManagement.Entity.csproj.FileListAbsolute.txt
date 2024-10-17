@@ -1,0 +1,24 @@
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.pdb

@@ -1,0 +1,42 @@
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\ProjectManagement.Exception\obj\Debug\ProjectM.1744AADA.Up2Date
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectM.1744AADA.Up2Date
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.dll
+C:\Users\HP\Downloads\Case Study - C#\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.dll
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Downloads\Case Study - C# sangam\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectM.1744AADA.Up2Date
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Exception.pdb
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.dll
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.BusinessLayer.pdb
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectM.1744AADA.Up2Date
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.dll
+C:\Users\Apurva Singhal\OneDrive\Desktop\Case Study - C#\ProjectManagement.Exception\obj\Debug\ProjectManagement.Exception.pdb
